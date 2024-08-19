@@ -1,4 +1,3 @@
-# kernel_fuzzy_coclustering
 In this repository, there are the  implementations of the  co-clustering algorithms of the paper: "[Kernel-based Fuzzy Co-clustering in Feature Space with Automated Variable Weighting](https://ieeexplore.ieee.org/abstract/document/9882838)".  
 
 In the file named co_clustering_algorithms.py there are the codes of the co-clustering methods. In the file 
